@@ -19,3 +19,6 @@ Conditional chaining operator (?)
 
 # link to the project
 https://codesandbox.io/s/github/virupaksha-b-m/Codesandbox
+
+# Final result
+![image](https://github.com/virupaksha-b-m/quote-generator/assets/91652877/fa460a1b-be38-4bd5-bf77-3852d2846922)
